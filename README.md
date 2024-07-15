@@ -15,6 +15,7 @@
 
 ### PROJECT: 
 E-COMMERCE WEBSITE REDESIGN
+
 ### OBJECTIVE: 
 The objective of the task is to redesign an existing e-commerce website to improve the overall shopping experience for users. This involves optimizing key aspects of the website, including product discovery, the checkout process, and product presentation, with the goal of increasing conversion rates and enhancing user satisfaction.
 
