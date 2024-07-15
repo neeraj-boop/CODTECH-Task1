@@ -26,3 +26,4 @@ The objective of the task is to redesign an existing e-commerce website to impro
 ![Screenshot 2024-07-15 230224](https://github.com/user-attachments/assets/8ea429db-9148-47b6-aa8d-28ec6c6559f9)
 ![Screenshot 2024-07-15 230158](https://github.com/user-attachments/assets/36817dd4-1918-4440-97a3-99da91085e15)
 ![Screenshot 2024-07-15 230107](https://github.com/user-attachments/assets/4ed9e8ef-b3f2-4ec9-b2fa-9db62812da85)
+
