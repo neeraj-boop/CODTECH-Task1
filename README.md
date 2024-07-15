@@ -1,9 +1,13 @@
 **Name:** NEERAJ KACHHAP
 
 **Company:** CODTECH IT SOLUTIONS
+
 **ID:** CT08DS2348
+
 **Domain:** UI/UX DESIGN
+
 **Duration:** June 15th, 2024 to July 15th 2024
+
 **Mentor:** SRAVANI GOUNI
 
 
